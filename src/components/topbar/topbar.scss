@@ -2,8 +2,81 @@
 .topbar{
     width:100%;
     height: 70px;
-    background-color: #15023a;
+    background-color: white;
+    color: $mainColor;
     position: fixed;
     top:0;
     z-index: 2;
+}
+li, a, button{
+    text-decoration: none;
+}
+header{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 18px 10%;
+}
+#vasiti{
+    margin-right: auto;
+}
+
+#tiny{
+    color: orange;
+    font-size: small;
+    font-weight: 600;
+}
+
+ul li a{
+    color: black;
+}
+
+.wrapper{
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+}
+.navlinks li a:hover{
+    color: orange;
+}
+
+
+
+button{
+    margin-left: 40px;
+    padding: 9px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+.navlinks{
+    list-style: none;
+
+}
+#name{
+    font-weight: 900;
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.navlinks li{
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+
+*{
+    scrollbar-width: none; // for firefox
+        &::-webkit-scrollbar{
+            display: none;
+        }
 }
