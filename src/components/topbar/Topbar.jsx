@@ -18,6 +18,12 @@ export default function Topbar() {
                 <a class="cta" href="#intro"><button>SIGN UP</button></a>
 
             </header>
+
+
+            
+
+               
+
             
 
 
