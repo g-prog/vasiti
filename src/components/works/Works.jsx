@@ -13,7 +13,7 @@ export default function Works() {
                         <h3>Joseph Ike</h3>
                         <div className="location">
                             <div className="left">
-                                <p>In Ikeja</p>
+                                <p>Ikeja</p>
 
                             </div>
                            
@@ -25,9 +25,9 @@ export default function Works() {
 
                         </div>
                         <div className="words">
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
+                            <p>I had the best</p>
+                            <p>I had the best</p>
+                            <p>I had the best </p>
                             
                         </div>
                        
@@ -42,7 +42,7 @@ export default function Works() {
                         <h3>Joseph Ike</h3>
                         <div className="location">
                             <div className="left">
-                                <p>In Ikeja</p>
+                                <p>Ikeja</p>
 
                             </div>
                            
@@ -54,10 +54,9 @@ export default function Works() {
 
                         </div>
                         <div className="words">
-                            <p>blah blah blah blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
+                            <p>I had the best</p>
+                            <p>I had the best</p>
+                            <p>I had the best </p>
                         </div>
                        
                     </div>
@@ -84,9 +83,9 @@ export default function Works() {
 
                         </div>
                         <div className="words">
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
-                            <p>blah blah blah blah blah</p>
+                            <p>I had the best</p>
+                            <p>I had the best</p>
+                            <p>I had the best </p>
                         </div>
                        
                     </div>
