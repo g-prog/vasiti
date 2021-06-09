@@ -35,7 +35,7 @@ export default function Works() {
                 </div>
                 <div className="card2">
                     <div className="image">
-                        <img src="assets/random.jpg" alt="cartoon"/>
+                        <img src="assets/robot.jpg" alt="cartoon"/>
 
                     </div>
                     <div className="content">
@@ -54,7 +54,7 @@ export default function Works() {
 
                         </div>
                         <div className="words">
-                            <p>blah blah blah blah blah</p>
+                            <p>blah blah blah blah blah blah blah blah</p>
                             <p>blah blah blah blah blah</p>
                             <p>blah blah blah blah blah</p>
                             <p>blah blah blah blah blah</p>
@@ -65,7 +65,7 @@ export default function Works() {
                 </div>
                 <div className="card3">
                 <div className="image">
-                        <img src="assets/random.jpg" alt="cartoon"/>
+                        <img src="assets/smiling.png" alt="cartoon"/>
 
                     </div>
                     <div className="content">
