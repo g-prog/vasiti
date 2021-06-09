@@ -1,3 +1,25 @@
 .footer{
     background-color: black;
+    display: flex;
+
+
+    .left{
+        flex: 0.5;
+        background-color: black;
+        
+
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    }
+
+    .right{
+        flex:0.5;
+        padding-top: 70px;
+        h1{
+            color: white;
+        }
+    }
 }
