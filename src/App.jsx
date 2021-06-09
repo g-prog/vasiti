@@ -5,6 +5,9 @@ import Works from "./components/works/Works";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Begin from "./components/begin/begin";
+import End from "./components/end/end";
+import Footer from "./components/footer/footer";
+
 import "./app.scss"
 
 function App() {
@@ -19,6 +22,8 @@ function App() {
       <Testimonials/>
       <Contact/>
       <Begin/>
+      <End/>
+      <Footer/>
 
       </div>
       

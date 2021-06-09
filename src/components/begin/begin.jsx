@@ -6,7 +6,7 @@ export default function begin() {
             <div className="cards">
                 <div className="card1">
                     <div className="image">
-                        <img src="assets/random.jpg" alt="cartoon"/>
+                        <img src="assets/man.jpg" alt="cartoon"/>
 
                     </div>
                     <div className="content">
@@ -35,7 +35,7 @@ export default function begin() {
                 </div>
                 <div className="card2">
                     <div className="image">
-                        <img src="assets/robot.jpg" alt="cartoon"/>
+                        <img src="assets/girl.jpg" alt="cartoon"/>
 
                     </div>
                     <div className="content">
@@ -65,7 +65,7 @@ export default function begin() {
                 </div>
                 <div className="card3">
                 <div className="image">
-                        <img src="assets/smiling.png" alt="cartoon"/>
+                        <img src="assets/glasses.jpg" alt="cartoon"/>
 
                     </div>
                     <div className="content">

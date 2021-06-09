@@ -1,0 +1,46 @@
+.end{
+    background-color:white;
+}
+
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+    .card1,.card2, .card3{
+        img{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+    }
+
+    .content{
+       
+        align-items: center;
+        .left{
+            flex: 0.7;
+        }
+        
+        p,h3{
+            margin: auto;
+            width: 50%;
+            padding: 10px;
+        }
+        .location{
+            display: flex;
+            
+        }
+        .button{
+        
+            button{
+                padding: 1px;
+            }
+            
+
+            
+        }
+
+        
+    }
+}
