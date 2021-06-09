@@ -1,3 +1,74 @@
 .portfolio{
     background-color: black;
+    display: flex;
+    
+
+    .left{
+        flex: 0.5;
+        
+        .imageContainer{
+            width: 700px;
+            height: 700px;
+            background-color: gray;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            float: right;
+
+            img{
+                width: 70%;
+                height: 70%;
+            }
+        }
+    }
+    .right{
+        flex: 0.5;
+        
+    
+        .wrapper{
+            
+            padding: 70px 0;
+            padding-left: 150px;
+            
+
+            h1,p,h3{
+                color: white;
+            }
+            button{
+                background-color: transparent;
+                border: 2px solid white;
+                padding: 10px 10px;
+                
+                
+            }
+            .content{
+                .button{
+                    padding-left: 0.1px;
+                    margin: 10px;
+                }
+            }
+
+            .text{
+                p{
+                    text-align: justify;
+                    line-height: 1.8;
+
+
+
+                }
+
+                .share{
+                    margin-top: 50px;
+                    hr{
+                        width: 50%;
+                        color: orange;
+                    }
+                }
+            }
+        }
+        
+
+        
+    }
 }
