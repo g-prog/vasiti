@@ -1,0 +1,36 @@
+.stack{
+    background-color: black;
+    display:flex;
+    
+    .left{
+        flex:0.5;
+
+        .one{
+            flex:0.25;
+
+            ul{
+
+                li{
+                    color: white;
+                }
+            }
+        }
+
+        .two{
+            flex:0.25;
+
+
+            ul{
+
+                li{
+                    color: white;
+                }
+            }
+
+        }
+
+        
+
+    }
+
+}

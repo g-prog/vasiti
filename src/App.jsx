@@ -7,6 +7,7 @@ import Contact from "./components/contact/Contact";
 import Begin from "./components/begin/begin";
 import End from "./components/end/end";
 import Footer from "./components/footer/footer";
+import Stack from "./components/stack/stack";
 
 import "./app.scss"
 
@@ -24,6 +25,7 @@ function App() {
       <Begin/>
       <End/>
       <Footer/>
+      <Stack/>
 
       </div>
       
